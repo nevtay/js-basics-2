@@ -1,0 +1,22 @@
+{
+  "name": "js-basics-2",
+  "version": "1.0.0",
+  "description": "- Open the project in Visual Studio Code\r - Start the Live Server\r - Open the Console tab on Chrome's DevTools",
+  "main": "script.js",
+  "scripts": {
+    "test": "watch 'node script.test.js' "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thoughtworks-jumpstart/js-basics-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thoughtworks-jumpstart/js-basics-2/issues"
+  },
+  "homepage": "https://github.com/thoughtworks-jumpstart/js-basics-2#readme",
+  "dependencies": {
+    "watch": "^1.0.2"
+  }
+}
